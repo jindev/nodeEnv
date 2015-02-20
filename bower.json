@@ -1,0 +1,24 @@
+{
+  "name": "nodeEnv",
+  "version": "1.0.0",
+  "authors": [
+    "bjkim"
+  ],
+  "description": "node env",
+  "main": "./app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.3.13",
+    "bootstrap": "~3.3.2",
+    "google-code-prettify": "~1.0.3",
+    "jasmine": "~2.2.1"
+  }
+}
